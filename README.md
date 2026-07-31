@@ -31,26 +31,49 @@ Welcome, young founding teams, to your final Capstone Project repository and man
 
 *Students begin documenting their team project from this point forward. Replace placeholder brackets `[...]` with your team's actual information.*
 
-## 🚀 1. STARTUP NAME: [Insert Team's Startup Name Here]
-* **Slogan:** "[Insert an inspiring project slogan]"
+## 🚀 1. STARTUP NAME: [Elderyly Companion Robot Network]
+* **Slogan:** "Connected Care, Confident Living"
 * **Class:** [STEM.02.26]
 
 ### 👥 Co-Founding Team (5 Core Roles - 5 Pillars of Synergy)
-1. **[Student 1 Full Name]** - **CEO (Chief Strategist):**
+1. **VU CHAN HUNG** - **CEO (Chief Strategist):**
 * **Identity Image / Profile Picture:** [Insert CEO's profile picture or avatar here, or use markdown: ![CEO Name](image_url)]
-* **Responsibilities:** [e.g., Coordinating the team, conducting market research, and making final executive decisions.]
-2. **[Student 2 Full Name]** - **Social Researcher:**
+* **Responsibilities:** [Coordinate team efforts and align project vision
+Conduct market research on elderly care sector
+Identify target customer segments and market opportunities
+Make executive decisions and strategic planning
+]
+2. **NGUYEN LAM QUOC HUNG** - **Social Researcher:**
 * **Identity Image / Profile Picture:** [Insert Social Researcher's profile picture or avatar here, or use markdown: ![Researcher Name](image_url)]
-* **Responsibilities:** [e.g., Gathering statistical data, mapping customer pain points, and identifying community needs.]
-3. **[Student 3 Full Name]** - **Technology Architect:**
+* **Responsibilities:** [Gather statistical data on elderly care needs in Vietnam
+Map user pain points through interviews and surveys
+Identify community requirements and unmet needs
+Analyze competitive landscape and market demand
+Provide insights on user behavior and preferences
+]
+3. **[HOANG LAM TAI]** - **Technology Architect:**
 * **Identity Image / Profile Picture:** [Insert Technology Architect's profile picture or avatar here, or use markdown: ![Architect Name](image_url)]
-* **Responsibilities:** [e.g., Designing and executing the technical architecture (AI, Robotics, Drones, IoT, etc.).]
-4. **[Student 4 Full Name]** - **UX/Experience Designer:**
+* **Responsibilities:** [Research technical architecture (AI models, IoT infrastructure)
+Research IoT sensors, camera technologies, and real-time streaming solutions for elderly care
+Research cloud infrastructure options and system scalability approaches
+Build an interactive online demo/prototype showcasing AI detection capabilities and system workflow
+Document technical architecture and feasibility findings for the project
+]
+4. **TRAN PHAN LAM** - **UX/Experience Designer:**
 * **Identity Image / Profile Picture:** [Insert UX Designer's profile picture or avatar here, or use markdown: ![Designer Name](image_url)]
-* **Responsibilities:** [e.g., In charge of conceptual drawings, application user interfaces, and slide deck visualization.]
-5. **[Student 5 Full Name]** - **Venture Investor:**
+* **Responsibilities:** [Design user interface for the web application platform
+Create wireframes and prototypes for the family dashboard
+Develop presentation slides and conceptual visualizations for stakeholders
+Ensure intuitive and engaging web user experience
+]
+5. **NGUYEN HUYNH NGOC TAM** - **Venture Investor:**
 * **Identity Image / Profile Picture:** [Insert Venture Investor's profile picture or avatar here, or use markdown: ![Investor Name](image_url)]
-* **Responsibilities:** [e.g., Evaluating feasibility, conducting cost-benefit analyses, and constructing the business model.]
+* **Responsibilities:** [Evaluate project feasibility and technical viability
+Conduct cost-benefit analysis and financial modeling
+Develop comprehensive business model and revenue strategy
+Give pricing strategy
+Research funding opportunities and investment requirements
+]
 
 ---
 ## ⚠️ 2. PROBLEM STATEMENT & SYSTEMS THINKING ANALYSIS
