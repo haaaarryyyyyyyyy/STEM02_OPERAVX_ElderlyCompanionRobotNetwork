@@ -82,7 +82,7 @@ Research funding opportunities and investment requirements
   * *Root Causes:* No one can physically monitor elderly parents 24/7 due to modern family structures—adult children work full-time or live separately, leaving elderly at home alone for extended periods.
   * *Direct Consequences:* Undetected Medical Emergencies/ Chronic Anxiety for Families
 *Detailed Systems Thinking Map (Attach the image file from the /research_system directory):*
-![Systems Thinking Diagram](research_system/[team_image_filename].png)
+![Systems Thinking Diagram](research_system/research_system.png)
 
 ---
 
