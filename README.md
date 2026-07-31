@@ -31,71 +31,70 @@ Welcome, young founding teams, to your final Capstone Project repository and man
 
 *Students begin documenting their team project from this point forward. Replace placeholder brackets `[...]` with your team's actual information.*
 
-## 🚀 1. STARTUP NAME: [Elderyly Companion Robot Network]
+## 🚀 1. STARTUP NAME: [Elderly Companion Robot Network]
 * **Slogan:** "Connected Care, Confident Living"
 * **Class:** [STEM.02.26]
 
 ### 👥 Co-Founding Team (5 Core Roles - 5 Pillars of Synergy)
 1. **VU CHAN HUNG** - **CEO (Chief Strategist):**
 * **Identity Image / Profile Picture:** [Insert CEO's profile picture or avatar here, or use markdown: ![CEO Name](image_url)]
-* **Responsibilities:** [Coordinate team efforts and align project vision
-Conduct market research on elderly care sector
-Identify target customer segments and market opportunities
+* **Responsibilities:** [Coordinate team efforts and align project vision,
+Conduct market research on elderly care sector,
+Identify target customer segments and market opportunities,
 Make executive decisions and strategic planning
 ]
 2. **NGUYEN LAM QUOC HUNG** - **Social Researcher:**
 * **Identity Image / Profile Picture:** [Insert Social Researcher's profile picture or avatar here, or use markdown: ![Researcher Name](image_url)]
-* **Responsibilities:** [Gather statistical data on elderly care needs in Vietnam
-Map user pain points through interviews and surveys
-Identify community requirements and unmet needs
-Analyze competitive landscape and market demand
+* **Responsibilities:** [Gather statistical data on elderly care needs in Vietnam,
+Map user pain points through interviews and surveys,
+Identify community requirements and unmet needs,
+Analyze competitive landscape and market demand,
 Provide insights on user behavior and preferences
 ]
 3. **[HOANG LAM TAI]** - **Technology Architect:**
 * **Identity Image / Profile Picture:** [Insert Technology Architect's profile picture or avatar here, or use markdown: ![Architect Name](image_url)]
-* **Responsibilities:** [Research technical architecture (AI models, IoT infrastructure)
-Research IoT sensors, camera technologies, and real-time streaming solutions for elderly care
-Research cloud infrastructure options and system scalability approaches
-Build an interactive online demo/prototype showcasing AI detection capabilities and system workflow
+* **Responsibilities:** [Research technical architecture (AI models, IoT infrastructure,
+Research IoT sensors, camera technologies, and real-time streaming solutions for elderly care,
+Research cloud infrastructure options and system scalability approaches,
+Build an interactive online demo/prototype showcasing AI detection capabilities and system workflow,
 Document technical architecture and feasibility findings for the project
 ]
 4. **TRAN PHAN LAM** - **UX/Experience Designer:**
 * **Identity Image / Profile Picture:** [Insert UX Designer's profile picture or avatar here, or use markdown: ![Designer Name](image_url)]
-* **Responsibilities:** [Design user interface for the web application platform
-Create wireframes and prototypes for the family dashboard
-Develop presentation slides and conceptual visualizations for stakeholders
+* **Responsibilities:** [Design user interface for the web application platform,
+Create wireframes and prototypes for the family dashboard,
+Develop presentation slides and conceptual visualizations for stakeholders,
 Ensure intuitive and engaging web user experience
 ]
 5. **NGUYEN HUYNH NGOC TAM** - **Venture Investor:**
 * **Identity Image / Profile Picture:** [Insert Venture Investor's profile picture or avatar here, or use markdown: ![Investor Name](image_url)]
-* **Responsibilities:** [Evaluate project feasibility and technical viability
-Conduct cost-benefit analysis and financial modeling
-Develop comprehensive business model and revenue strategy
-Give pricing strategy
+* **Responsibilities:** [Evaluate project feasibility and technical viability,
+Conduct cost-benefit analysis and financial modeling,
+Develop comprehensive business model and revenue strategy,
+Give pricing strategy,
 Research funding opportunities and investment requirements
 ]
 
 ---
 ## ⚠️ 2. PROBLEM STATEMENT & SYSTEMS THINKING ANALYSIS
-* **Core Problem Statement:** [e.g., Chronic traffic congestion and carbon emission crises in major metropolitan areas].
+* **Core Problem Statement:** Vietnamese elderly fear being alone at home without 24/7 monitoring, while their families suffer constant anxiety about undetected emergencies such as falls or strokes—stripping both of them of freedom, independence, and dignity..
 * **Cause-and-Effect Deep Dive:**
-  * *Root Causes:* [e.g., Low public transit adoption / Absence of smart traffic signaling systems / Exponential growth in private vehicle density...]
-  * *Direct Consequences:* [e.g., Severe gridlocks / Critical air pollution / High urban stress and decayed quality of life...]
-
+  * *Root Causes:* No one can physically monitor elderly parents 24/7 due to modern family structures—adult children work full-time or live separately, leaving elderly at home alone for extended periods.
+  * *Direct Consequences:* Undetected Medical Emergencies/ Chronic Anxiety for Families
 *Detailed Systems Thinking Map (Attach the image file from the /research_system directory):*
 ![Systems Thinking Diagram](research_system/[team_image_filename].png)
 
 ---
 
 ## 💡 3. STARTUP ARCHITECTURE & BUSINESS MODEL
-* **Target Customers:** [e.g., Municipal urban management boards, educational institutions, or residential community boards].
-* **Startup's Core Solution:** [Briefly describe how your product/service operates to mitigate the problem stated above].
+* **Target Customers:** Urban middle-to-upper-income families with elderly parents living alone, assisted living facilities.s.
+* **Startup's Core Solution:** The system uses a wearable device equipped with sensors to continuously collect vital signs and detect falls in real time. Sensor data is securely transmitted to an AI-powered cloud platform that analyzes health patterns, calculates risk scores, and detects anomalies. When a risk is detected, the system instantly alerts family members via push notifications, email, or SMS, and displays real-time health data on a web dashboard—giving families continuous peace of mind while allowing elderly to maintain independence, without needing a caregiver physically present at all times..
 * **Core Technology Stack (Check all applicable technologies):**
-  * [ ] **AI Vision (Computer Vision):** [e.g., Real-time traffic density recognition via smart camera feeds]
-  * [ ] **Robotics/UAVs & Actuators:** [e.g., Automated industrial robotic arm for high-speed waste sorting]
-  * [ ] **IoT & Cloud Infrastructure:** [e.g., Streamlining real-time telemetry sensor data to a centralized cloud server]
-  * [ ] **Green Energy (Sustainability):** [e.g., Hybrid solar-powered arrays driving zero-emission operations]
-  * [ ] **Big Data & Predictive Analytics:** [e.g., Processing mobility patterns to forecast traffic bottlenecks]
+  * [x] **AI Vision (Computer Vision):** AI-powered fall detection and posture analysis using motion pattern recognition from accelerometer/gyroscope sensor data to identify sudden falls or abnormal movements in real-time.
+  * [ ] **Robotics/UAVs & Actuators:** 
+  * [x] **IoT & Cloud Infrastructure:** Streaming real-time vital sign data (heart rate, SpO₂, ECG) from wearable devices to a centralized AWS cloud platform via encrypted HTTPS/MQTT protocols for continuous health monitoring.
+  * [ ] **Green Energy (Sustainability):** 
+  * [x] **Big Data & Predictive Analytics:** Processing continuous time-series health data through TimescaleDB and AI models to detect anomalies, calculate risk scores, and predict potential medical emergencies before they become critical.
 
 ---
 
