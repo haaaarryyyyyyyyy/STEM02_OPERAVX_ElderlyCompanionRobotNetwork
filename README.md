@@ -31,7 +31,7 @@ Welcome, young founding teams, to your final Capstone Project repository and man
 
 *Students begin documenting their team project from this point forward. Replace placeholder brackets `[...]` with your team's actual information.*
 
-## 🚀 1. STARTUP NAME: [Elderly Companion Robot Network]
+## 🚀 1. STARTUP NAME: Elder Guardian Health System
 * **Slogan:** "Connected Care, Confident Living"
 * **Class:** [STEM.02.26]
 
