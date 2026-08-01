@@ -37,14 +37,14 @@ Welcome, young founding teams, to your final Capstone Project repository and man
 
 ### 👥 Co-Founding Team (5 Core Roles - 5 Pillars of Synergy)
 1. **VU CHAN HUNG** - **CEO (Chief Strategist):**
-* **Identity Image / Profile Picture:** [Insert CEO's profile picture or avatar here, or use markdown: ![CEO Name](image_url)]
+* **Identity Image / Profile Picture:** * ![Chan Hung](design_visuals/Chan%20Hung.jpg)
 * **Responsibilities:** [Coordinate team efforts and align project vision,
 Conduct market research on elderly care sector,
 Identify target customer segments and market opportunities,
 Make executive decisions and strategic planning
 ]
 2. **NGUYEN LAM QUOC HUNG** - **Social Researcher:**
-* **Identity Image / Profile Picture:** [Insert Social Researcher's profile picture or avatar here, or use markdown: ![Researcher Name](image_url)]
+* **Identity Image / Profile Picture:** ![Quoc Hung](design_visuals/Quoc%20Hung.jpg)
 * **Responsibilities:** [Gather statistical data on elderly care needs in Vietnam,
 Map user pain points through interviews and surveys,
 Identify community requirements and unmet needs,
@@ -52,7 +52,7 @@ Analyze competitive landscape and market demand,
 Provide insights on user behavior and preferences
 ]
 3. **[HOANG LAM TAI]** - **Technology Architect:**
-* **Identity Image / Profile Picture:** [Insert Technology Architect's profile picture or avatar here, or use markdown: ![Architect Name](image_url)]
+* **Identity Image / Profile Picture:** ![Tai](design_visuals/Tai.jpg)
 * **Responsibilities:** [Research technical architecture (AI models, IoT infrastructure,
 Research IoT sensors, camera technologies, and real-time streaming solutions for elderly care,
 Research cloud infrastructure options and system scalability approaches,
@@ -60,14 +60,14 @@ Build an interactive online demo/prototype showcasing AI detection capabilities 
 Document technical architecture and feasibility findings for the project
 ]
 4. **TRAN PHAN LAM** - **UX/Experience Designer:**
-* **Identity Image / Profile Picture:** [Insert UX Designer's profile picture or avatar here, or use markdown: ![Designer Name](image_url)]
+* **Identity Image / Profile Picture:** ![Phan Lam](design_visuals/Phan%20Lam.jpg)
 * **Responsibilities:** [Design user interface for the web application platform,
 Create wireframes and prototypes for the family dashboard,
 Develop presentation slides and conceptual visualizations for stakeholders,
 Ensure intuitive and engaging web user experience
 ]
 5. **NGUYEN HUYNH NGOC TAM** - **Venture Investor:**
-* **Identity Image / Profile Picture:** [Insert Venture Investor's profile picture or avatar here, or use markdown: ![Investor Name](image_url)]
+* **Identity Image / Profile Picture:** ![Tam](design_visuals/Tam.jpg)
 * **Responsibilities:** [Evaluate project feasibility and technical viability,
 Conduct cost-benefit analysis and financial modeling,
 Develop comprehensive business model and revenue strategy,
@@ -102,7 +102,7 @@ Research funding opportunities and investment requirements
 In the future, every elderly citizen in Vietnam's cities will age independently and safely, supported by a lightweight wearable that quietly watches over their health. Families will carry less worry, trusting real-time alerts instead of constant phone calls to check in. Hospitals will shift from reacting to emergencies to preventing them, catching risks before they escalate. As cities grow more connected, our platform will become part of everyday urban infrastructure—as familiar and essential as smartphones are today. We envision a Vietnam where technology never replaces human care, but ensures no elder is ever truly alone.
 
 *Team's Conceptual Drawing (Attach the image file from the /design_visuals directory):*
-![Smart Society Visual 2045](design_visuals/[conceptual_drawing_filename].png)
+![Smart Society Visual 2045](design_visuals/Future.png)
 
 ---
 
